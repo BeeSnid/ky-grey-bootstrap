@@ -16,6 +16,7 @@ body {
 	max-width: 1000px;
 }
 
+
 /*navbar
 ===*/
 
@@ -26,6 +27,7 @@ body {
 .img-gmail {
 	height: 40px;
 }
+
 
 /* jumbotron
 ===*/
@@ -43,8 +45,6 @@ body {
 }
 
 
-	
-
 /* carousel
 ==*/
 
@@ -60,18 +60,14 @@ body {
 	border-color: aquamarine
 }
 
-
-	
-
 ul {
   list-style-type: none;
 }
 
+
+
 /*main content
 ===*/
-
-
-
 
 .img-sleep {
 	height: 200px;
