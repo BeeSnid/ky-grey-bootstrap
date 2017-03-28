@@ -1,0 +1,75 @@
+/* layout
+=====*/
+
+body {
+	padding-top: 50px;
+}
+
+
+#index h1 {
+	color: mediumpurple;
+}
+
+.containter {
+	max-width: 1000px;
+}
+
+/*navbar
+===*/
+
+.img-facebook {
+	height: 50px;
+}
+
+.img-gmail {
+	height: 40px;
+}
+
+/* jumbotron
+===*/
+
+.jumbotron {
+	text-align: center;
+	padding-bottom: 50px;
+	background-color: #d1f9f9;
+}
+
+.img-responsive {
+	height: 500px;
+	width: 500px;
+	margin: 0 auto;
+}
+
+
+	
+
+/* carousel
+==*/
+
+.carousel-indicators {
+	bottom: 0;
+}
+
+.carousel-indicators .active {
+	background-color: aquamarine;
+}
+
+.carousel-indicators li {
+	border-color: aquamarine
+}
+
+ul {
+  list-style-type: none;
+}
+
+/*main content
+===*/
+
+
+
+
+.img-sleep {
+	height: 200px;
+	width: 300px;
+}
+	
