@@ -1,3 +1,3 @@
-This website was created for a new Greyhound adoption group in Kentucky. Being as they are a newly started non-profit, they do not have an active website yet. I wanted to create a responsive website using the Bootstrap CDN. I have also included a bit of custom CSS. I incorporated some JavaScript to give the site some visual appeal and drop down menus in the nav bar. 
+This website was created for a new Greyhound adoption group in Kentucky. Being as they are a newly started non-profit, they do not have an active website yet. I wanted to create a responsive website using the Bootstrap CDN. I have also included a bit of custom CSS. I incorporated some JavaScript to give the site some visual appeal and drop down menus in the nav bar. The majority of the text throughout is dummy text and the links in the navbar are dummy links, just to give an idea as to how the website will eventually behave.   
 
 To operate this webpage, run the index.html
